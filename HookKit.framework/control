@@ -1,0 +1,10 @@
+Package: me.jjolano.fmwk.hookkit
+Name: HookKit Framework
+Architecture: iphoneos-arm
+Description: An iOS developer framework for unified hooking methods. Mod by Cường Trần (Kids)
+Maintainer: jjolano
+Author: jjolano
+Section: Development
+Tag: role::developer
+Version: 1.0.17~14.5
+Depends: firmware (>= 15.0), me.jjolano.fmwk.modulous (>> 1.0.9), me.jjolano.fmwk.rootbridge (>> 1.0.2)
